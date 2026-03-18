@@ -1,7 +1,7 @@
 # Experiment 8: Post-Quantum Blockchain Wallet with Lattice-Based Cryptography
 # Aim:
-# NAME : M SATHYANARAYANAN
-# REG NO: 212224040300
+# NAME : Rahul V
+# REG NO: 212223240133
 To create a quantum-resistant wallet using lattice-based cryptography instead of traditional ECDSA, ensuring that future quantum computers cannot break private keys.
 
 # Algorithm:
